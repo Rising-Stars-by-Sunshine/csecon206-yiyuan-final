@@ -26,7 +26,9 @@
 - Game Environment
 
 The game rule is shown below: Each player has the choice to plant either a tree or a crop on their land. Trees provide an environmental benefit by absorbing carbon dioxide, but they take longer to mature and provide less immediate economic benefit. Crops provide an economic benefit by being able to be sold for profit, but they do not provide any environmental benefit. Players must choose whether to plant a tree or a crop on their land, and their choice is kept secret until all players have made their choice. Once all players have made their choice, the environmental benefit of the trees is calculated based on the number of trees planted by all players, and the economic benefit of the crops is calculated based on the number of crops planted by all players.
-The objective it to maximize the total environmental benefit for all players and to maximize players' own economic benefit. 
+The objective is to maximize the total environmental benefit for all players and to maximize players' own economic benefit. 
+The table blow shows the strategies and payoff of the game. For crop, based on the data from 
+<img src = "https://github.com/Rising-Stars-by-Sunshine/csecon206-yiyuan-final/blob/main/model/payoff.png" width = 80%, height=80%><br/> 
 
 - Solution Concept
 - Evaluations: e.g. efficiency and fairness
