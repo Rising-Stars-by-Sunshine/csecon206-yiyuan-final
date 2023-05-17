@@ -1,8 +1,8 @@
-# # Title [How to Choice a Good Title?](https://www.nature.com/articles/s41562-021-01152-2)
+# Tree vs. Crop
 ## Project information
-- **Author**: [First Name][Last Name], [Major], [Class], Duke Kunshan University
+- **Author**: [Yiyuan][Qin], [Data Science], [2023], Duke Kunshan University
 - **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
-- **Disclaimer**: Submissions to the Problem Set No. or Final Project for [COMPSCI/ECON 206 Computational Microeconomics, 2023 Spring (Seven Week - Second)](https://ce.pubpub.org/) instructed by Prof. Luyao Zhang at Duke Kunshan University.
+- **Disclaimer**: Submissions to the Final Project for [COMPSCI/ECON 206 Computational Microeconomics, 2023 Spring (Seven Week - Second)](https://ce.pubpub.org/) instructed by Prof. Luyao Zhang at Duke Kunshan University.
 - **Acknowledgments**: [How to Acknowledge?](https://www.scribbr.co.uk/thesis-dissertation/acknowledgements/)
 [notes: please include all professors, students, and staff who have contributed to your completetion of the project.]
 - **Project Summary**: 
@@ -12,9 +12,7 @@
   - [Methodology]
   - [Results]
   - [Intellectual Merits and Practical impacts of your project.]
-  
-   
-Note: please insert the screenshot of the answers to your research question by ChatGPT. The methodology that you use to address the research questions must be more innovative than both the current literature and ChatGPT. 
+
 
 ## Table of Contents
 
@@ -26,6 +24,10 @@ Note: please insert the screenshot of the answers to your research question by C
 
 ### Model
 - Game Environment
+
+The game rule is shown below: Each player has the choice to plant either a tree or a crop on their land. Trees provide an environmental benefit by absorbing carbon dioxide, but they take longer to mature and provide less immediate economic benefit. Crops provide an economic benefit by being able to be sold for profit, but they do not provide any environmental benefit. Players must choose whether to plant a tree or a crop on their land, and their choice is kept secret until all players have made their choice. Once all players have made their choice, the environmental benefit of the trees is calculated based on the number of trees planted by all players, and the economic benefit of the crops is calculated based on the number of crops planted by all players.
+The objective it to maximize the total environmental benefit for all players and to maximize players' own economic benefit. 
+
 - Solution Concept
 - Evaluations: e.g. efficiency and fairness
 
