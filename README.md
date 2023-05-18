@@ -26,6 +26,8 @@ The model-building phase involves formulating the objective for each player, whi
 However, there are several limitations to the model. Firstly, it simplifies decision-making processes by reducing the factors to predefined psychological and social factors, potentially overlooking other influential factors. Secondly, its applicability and generalizability may be limited to specific contexts and populations, requiring adaptation and validation for different settings. Thirdly, the model assumes static decision-making processes without considering dynamic interactions or the opportunity for players to revise their strategies. Fourthly, it neglects individual heterogeneity by assuming that all players have the same predefined factors. Additionally, the model relies on simplified payoff calculations and lacks real-time feedback, which may not capture the complexities of economic and environmental outcomes or players' learning processes.
 Addressing these limitations is crucial to enhance the model's applicability, accuracy, and usefulness in understanding decision-making processes in the context of the environment and the economy. Future studies can expand the factors considered, incorporate dynamic elements into the model, account for individual heterogeneity, refine the payoff calculations, and introduce real-time feedback mechanisms. By addressing these limitations, the model can provide more realistic and nuanced insights into decision-making processes, leading to more effective strategies and policies that achieve a sustainable balance between the environment and the economy.
 
+<img src = "https://github.com/Rising-Stars-by-Sunshine/csecon206-yiyuan-final/blob/main/model/obj.png" width = 80%, height=80%><br/> 
+
 
 
 
@@ -51,9 +53,11 @@ This research has both intellectual merits and practical impacts. It advances th
 The game rule is shown below: Each player has the choice to plant either a tree or a crop on their land. Trees provide an environmental benefit by absorbing carbon dioxide, but they take longer to mature and provide less immediate economic benefit. Crops provide an economic benefit by being able to be sold for profit, but they do not provide any environmental benefit. Players must choose whether to plant a tree or a crop on their land, and their choice is kept secret until all players have made their choice. Once all players have made their choice, the environmental benefit of the trees is calculated based on the number of trees planted by all players, and the economic benefit of the crops is calculated based on the number of crops planted by all players.
 The objective is to maximize the total environmental benefit for all players and to maximize players' own economic benefit. 
 The table below shows the strategies and payoff of the game. 
+
 <img src = "https://github.com/Rising-Stars-by-Sunshine/csecon206-yiyuan-final/blob/main/model/payoff.png" width = 80%, height=80%><br/> 
 
 - Solution Concept
+
 <img src = "https://github.com/Rising-Stars-by-Sunshine/csecon206-yiyuan-final/blob/main/model/solution.png" width = 80%, height=80%><br/> 
 - Evaluations: e.g. efficiency and fairness
 	- Efficiency:
@@ -73,6 +77,9 @@ All the code is in the Colab link: https://drive.google.com/file/d/1chEmmTIPqgKK
 
 ### Spotlight
 - Posters
+
+<img src = "https://github.com/Rising-Stars-by-Sunshine/csecon206-yiyuan-final/blob/main/spotlight/Poster.png" width = 80%, height=80%><br/> 
+
 - Figures
 - Slides
 - Presentations
