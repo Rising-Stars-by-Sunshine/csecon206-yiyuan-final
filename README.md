@@ -1,6 +1,6 @@
 # Tree vs. Crop
 ## Project information
-- **Author**: [Yiyuan][Qin], [Data Science], [2023], Duke Kunshan University
+- **Author**: Yiyuan Qin, Data Science, 2023, Duke Kunshan University
 - **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
 - **Disclaimer**: Submissions to the Final Project for [COMPSCI/ECON 206 Computational Microeconomics, 2023 Spring (Seven Week - Second)](https://ce.pubpub.org/) instructed by Prof. Luyao Zhang at Duke Kunshan University.
 - **Acknowledgments**: [How to Acknowledge?](https://www.scribbr.co.uk/thesis-dissertation/acknowledgements/)
@@ -109,12 +109,8 @@ One aspect of professional growth that I have experienced through this research 
 Additionally, this research has deepened my understanding of the importance of interdisciplinary collaboration. Decision-making in the context of the environment and the economy requires a multidisciplinary approach that integrates knowledge from fields such as economics, psychology, environmental science, and policy analysis. Through this research, I have learned to appreciate the value of collaboration and the insights that can be gained from diverse perspectives. This has prepared me to work effectively in multidisciplinary teams, fostering creativity, and facilitating innovative problem-solving.
 Furthermore, this research has contributed to my professional growth by enhancing my knowledge of sustainability and its practical implications. Understanding the complexities of balancing economic growth with environmental well-being is crucial in today's rapidly changing world. This research has provided me with a solid foundation in sustainable decision-making and has equipped me with the knowledge and tools to contribute to sustainability initiatives in various professional contexts. Whether it is in environmental policy development, corporate sustainability, or urban planning, this research has prepared me to address real-world challenges and make a positive impact in my professional endeavors.
 
-
-
-
-
   - living a purposeful life
-
-Engaging with the research on decision-making in the context of the environment and the economy has allowed me to reflect on how I can contribute to a purposeful life that aligns with my values and makes a positive impact on the world.
+  
+  Engaging with the research on decision-making in the context of the environment and the economy has allowed me to reflect on how I can contribute to a purposeful life that aligns with my values and makes a positive impact on the world.
 Through this research, I have gained a deeper understanding of the interconnectedness of the environment and the economy and the importance of finding a balance between them.  This understanding has fueled my passion for sustainability and environmental stewardship, guiding me toward a purposeful life centered around promoting a harmonious relationship between humans and the natural world.
 The research has helped me recognize the significance of my individual choices and actions in shaping the larger picture of sustainability. It has highlighted the role of decision-making in achieving a sustainable balance between economic development and environmental well-being. This realization has empowered me to make more informed and responsible choices in my personal and professional life, taking into account the potential impacts on the environment and future generations. Engaging with the research on decision-making in the context of the environment and the economy has provided me with the knowledge, inspiration, and motivation to live a purposeful life centered around sustainability and environmental responsibility. It has given me a sense of direction and purpose, guiding my choices and actions towards creating a better and more sustainable world.
