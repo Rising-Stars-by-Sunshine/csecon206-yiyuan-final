@@ -80,8 +80,8 @@ All the code is in the Colab link: https://drive.google.com/file/d/1chEmmTIPqgKK
 
 <img src = "https://github.com/Rising-Stars-by-Sunshine/csecon206-yiyuan-final/blob/main/spotlight/Poster.png" width = 80%, height=80%><br/> 
 
-- Figures
 - Slides
+Check the presentation slide from link: 
 - Presentations
 - Review articles
 - Media appearance
