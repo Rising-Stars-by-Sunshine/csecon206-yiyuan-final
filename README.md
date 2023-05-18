@@ -80,36 +80,41 @@ All the code is in the Colab link: https://drive.google.com/file/d/1chEmmTIPqgKK
 
 <img src = "https://github.com/Rising-Stars-by-Sunshine/csecon206-yiyuan-final/blob/main/spotlight/Poster.png" width = 80%, height=80%><br/> 
 
-- Slides
-Check the presentation slide from link: 
-- Presentations
+- Presentations Slides
+Check the presentation slide from the link: https://github.com/Rising-Stars-by-Sunshine/csecon206-yiyuan-final/blob/main/spotlight/final_pre.pptx or by the PDF version https://github.com/Rising-Stars-by-Sunshine/csecon206-yiyuan-final/blob/main/spotlight/final_pre.pdf
+
 - Review articles
+See the articles from the link: https://github.com/Rising-Stars-by-Sunshine/csecon206-yiyuan-final/blob/main/spotlight/CSECON206_Final_yiyuan.pdf
+
 - Media appearance
+Using Colab and Canvas to help the project
 
 ### More about the Author
-- headshot
-- self-introduction
+- headshot  
+	<img src = "https://github.com/Rising-Stars-by-Sunshine/csecon206-yiyuan-final/blob/main/spotlight/headshot.jpg" width = 10%, height=10%><br/> 
+- DKU'23 Data Science
 - Final reflections 
   - intellectual growth
+  
+  This research has challenged my previous understanding of decision-making processes and expanded my knowledge in several key areas. 
+  One aspect of intellectual growth that I have gained from this research is the recognition of the complexity of decision-making. I have come to understand that decision-making is not solely driven by rational calculations or economic considerations. Instead, it is influenced by a myriad of psychological and social factors, such as risk aversion, environmental concerns, social norms, and collaboration. This realization has broadened my perspective and highlighted the need for a more comprehensive approach to analyzing decision-making processes.
+Another area of intellectual growth stems from the exploration of multiple objectives and trade-offs. The research emphasizes the importance of considering both economic and environmental outcomes as objectives, recognizing that these domains are interdependent and should not be treated as competing interests. This has challenged my previous belief that decision-making is solely about maximizing economic gains, and instead, has prompted me to consider the broader implications and trade-offs associated with different choices.
+The research has deepened my understanding of the dynamic nature of decision-making and the importance of evolving preferences. I have learned that societal values and attitudes towards the environment and the economy can change over time, influencing individual choices. This recognition has highlighted the need for adaptive strategies and policies that align with evolving preferences, promoting sustainability and balance between these domains. It has encouraged me to think more holistically and consider the broader socio-cultural context when analyzing decision-making processes.
+Engaging with the research on decision-making in the context of the environment and the economy has been a transformative experience for my intellectual growth. It has challenged my preconceived notions, broadened my understanding of decision-making processes, and inspired me to consider the complexities and trade-offs associated with different choices. This research has not only expanded my knowledge but has also prompted me to think critically, embrace a more holistic approach, and seek practical solutions to promote sustainability and balance in decision-making.
+
   - professional growth
+  
+  Engaging with the research on decision-making in the context of the environment and the economy has been instrumental in my professional growth. This research has provided me with valuable insights and skills that have enhanced my professional capabilities and broadened my career prospects.
+One aspect of professional growth that I have experienced through this research is the development of analytical and critical thinking skills. By examining the complexities of decision-making processes and considering the interplay of psychological and social factors, I have honed my ability to analyze complex problems and draw meaningful conclusions. This skill is highly transferable to various professional settings, as it equips me to make informed decisions, develop innovative strategies, and address complex challenges in a holistic manner.
+Additionally, this research has deepened my understanding of the importance of interdisciplinary collaboration. Decision-making in the context of the environment and the economy requires a multidisciplinary approach that integrates knowledge from fields such as economics, psychology, environmental science, and policy analysis. Through this research, I have learned to appreciate the value of collaboration and the insights that can be gained from diverse perspectives. This has prepared me to work effectively in multidisciplinary teams, fostering creativity, and facilitating innovative problem-solving.
+Furthermore, this research has contributed to my professional growth by enhancing my knowledge of sustainability and its practical implications. Understanding the complexities of balancing economic growth with environmental well-being is crucial in today's rapidly changing world. This research has provided me with a solid foundation in sustainable decision-making and has equipped me with the knowledge and tools to contribute to sustainability initiatives in various professional contexts. Whether it is in environmental policy development, corporate sustainability, or urban planning, this research has prepared me to address real-world challenges and make a positive impact in my professional endeavors.
+
+
+
+
+
   - living a purposeful life
 
-### References
-
-- Literature References in [Chicago Author-Date](https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-2.html) Style and [BibTex](https://scholar.google.com/) 
-
-Levin, Dan, and Luyao Zhang. 2020. “Bridging Level-K to Nash Equilibrium.” *The Review of Economics and Statistics* 104 (6): 1329–40. https://doi.org/10.1162/rest_a_00990.
-[](https://www.plant-ecology.com/article/2015/1005-264X/1005-264x-39-2-140.shtml)
-
-```
-@article{HuHaiqing2015LesserKhinganMountains,
-  title={Biomass carbon density and carbon sequestration capacity of seven typical forest types in Lesser Khingan Mountains},
-  author={Hu Haiqing, Luo Bizhen, Wei Shujing, Wei Shuwei , Sun Long, Rossheng, Ma Hongbin},
-  journal={Journal of Plant Ecology},
-  volume={39},
-  number={2},
-  pages={140--158},
-  year={2015}
-}
-```
-
+Engaging with the research on decision-making in the context of the environment and the economy has allowed me to reflect on how I can contribute to a purposeful life that aligns with my values and makes a positive impact on the world.
+Through this research, I have gained a deeper understanding of the interconnectedness of the environment and the economy and the importance of finding a balance between them.  This understanding has fueled my passion for sustainability and environmental stewardship, guiding me toward a purposeful life centered around promoting a harmonious relationship between humans and the natural world.
+The research has helped me recognize the significance of my individual choices and actions in shaping the larger picture of sustainability. It has highlighted the role of decision-making in achieving a sustainable balance between economic development and environmental well-being. This realization has empowered me to make more informed and responsible choices in my personal and professional life, taking into account the potential impacts on the environment and future generations. Engaging with the research on decision-making in the context of the environment and the economy has provided me with the knowledge, inspiration, and motivation to live a purposeful life centered around sustainability and environmental responsibility. It has given me a sense of direction and purpose, guiding my choices and actions towards creating a better and more sustainable world.
